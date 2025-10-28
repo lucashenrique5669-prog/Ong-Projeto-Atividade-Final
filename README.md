@@ -57,5 +57,3 @@ Lucas Henrique
 📅 2025 — Projeto acadêmico de prática em desenvolvimento web.
 
 
-**Raimundo Negreiro**  
-📅 2025 — Projeto acadêmico de prática em desenvolvimento web.
