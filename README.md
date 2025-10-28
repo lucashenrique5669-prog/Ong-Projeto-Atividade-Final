@@ -6,7 +6,7 @@ O objetivo é criar um site institucional para uma ONG fictícia, com páginas d
 ---
 
 ## 🌍 Acesso ao site
-🔗 [Clique aqui para acessar o site online](https://lucashenrique5669-prog.github.io/ong-projeto/)
+🔗 [Clique aqui para acessar o site online](https://lucashenrique5669-prog.github.io/ong_projeto_final_logo_finalfix/index.html))
 
 ---
 
